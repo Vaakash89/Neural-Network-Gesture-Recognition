@@ -1,0 +1,8 @@
+h5 model file -> https://drive.google.com/open?id=1072yTKwswhKzQ7hXbnnip-Ib94MovE85
+
+# In order to use this model. Resize the images to 300 * 300 before feeding in. Also this takes sequence of size 30.  
+# Model was trained on a batch size of 4
+
+Write Up on Google Docs -> https://docs.google.com/document/d/1DEj1pUeQPGQVjdcSn3MFER0qjd3V0H6QTg5k45JdoT4/edit?usp=sharing
+
+Dataset : https://drive.google.com/file/d/1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL/view?usp=sharing Neural_Nets.zip
